@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLOv5 weights
+*.pt
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environments
+.env
+venv/
+.env.*
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Jetson-specific (optional)
+*.onnx
