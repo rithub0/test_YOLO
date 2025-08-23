@@ -1,15 +1,28 @@
-MIT License
+danger_detection ライセンス / danger_detection License
 
-Copyright (c) 2025 [ryota tanaka]
+このソフトウェア（danger_detection）は、個人学習・非商用目的に限り、自由に使用・改変・再配布することができます。
+This software (danger_detection) may be used, modified, and redistributed freely for personal and non-commercial purposes.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ただし、以下の条件を満たす必要があります。
+However, the following conditions must be met:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. 利用・再配布・改変を行う場合は、著作者として以下を明記してください：
+   Copyright (c) 2025 rithub0  
+   The following attribution must be clearly stated in all copies or substantial portions of the Software:  
+   Copyright (c) 2025 rithub0
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
+2. 営利目的での使用（例：販売、広告付き配布、有償サービスへの組込みなど）は禁止します。
+   Commercial use (e.g. selling, distribution with ads, inclusion in paid services) is prohibited.
+
+3. 再配布や改変を行う場合は、本ライセンス文を含めてください。
+   This license text must be included in all copies and modified versions.
+
+4. 商用利用を希望する場合は、著作者（rithub0）までご連絡ください。
+   To request commercial use, please contact the author (rithub0).
+
+免責事項 / Disclaimer:  
+本ソフトウェアは「現状のまま」提供されており、明示または黙示を問わず、いかなる保証も行いません。  
+This software is provided "as is", without warranty of any kind, express or implied.
+
+使用または不使用に関連して生じた一切の損害について、著作者は責任を負いません。  
+In no event shall the author be liable for any damages arising in any way out of the use of this software.
